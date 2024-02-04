@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/l7aj-portfolio/static/css/main.94910906.css",
+    "main.js": "/l7aj-portfolio/static/js/main.59bf627c.js",
+    "static/js/787.b1fd0b20.chunk.js": "/l7aj-portfolio/static/js/787.b1fd0b20.chunk.js",
+    "static/media/jamilafood.png": "/l7aj-portfolio/static/media/jamilafood.8ae47e25cd037e696c1c.png",
+    "static/media/sidebar.png": "/l7aj-portfolio/static/media/sidebar.d1e75c0e7ddc0883ff79.png",
+    "static/media/hoc.png": "/l7aj-portfolio/static/media/hoc.6d1663c0dd476160515f.png",
+    "static/media/musicapp.png": "/l7aj-portfolio/static/media/musicapp.d652626b9ab4aac0cc0b.png",
+    "static/media/color-sharp.png": "/l7aj-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/l7aj-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/baner-imag1.png": "/l7aj-portfolio/static/media/baner-imag1.fa68aca1d6196f6b13f9.png",
+    "static/media/baner-imag1.jpg": "/l7aj-portfolio/static/media/baner-imag1.16657719419d41af10c6.jpg",
+    "static/media/logo1.JPG": "/l7aj-portfolio/static/media/logo1.13654dd28c8651b7b42f.JPG",
+    "static/media/admin_space.png": "/l7aj-portfolio/static/media/admin_space.6ae1018698a636a5e3ee.png",
+    "static/media/ecommerce.png": "/l7aj-portfolio/static/media/ecommerce.30d104cc212a8200c095.png",
+    "static/media/CentraNo2-Bold.ttf": "/l7aj-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/l7aj-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/l7aj-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/l7aj-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/resume.pdf": "/l7aj-portfolio/static/media/resume.39f45bb16cee457902e9.pdf",
+    "static/media/banner-bg.jpg": "/l7aj-portfolio/static/media/banner-bg.fc28638cecb84709b396.jpg",
+    "static/media/contact-img1.svg": "/l7aj-portfolio/static/media/contact-img1.17356ca0b7253e4b2bcc1e88b880b567.svg",
+    "static/media/revicons.eot": "/l7aj-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/l7aj-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/l7aj-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/l7aj-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/l7aj-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/l7aj-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/l7aj-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/l7aj-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.94910906.css.map": "/l7aj-portfolio/static/css/main.94910906.css.map",
+    "main.59bf627c.js.map": "/l7aj-portfolio/static/js/main.59bf627c.js.map",
+    "787.b1fd0b20.chunk.js.map": "/l7aj-portfolio/static/js/787.b1fd0b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94910906.css",
+    "static/js/main.59bf627c.js"
+  ]
+}
