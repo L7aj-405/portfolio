@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.92a1b21a.css",
-    "main.js": "/portfolio/static/js/main.b557afee.js",
+    "main.css": "/portfolio/static/css/main.b57daf0d.css",
+    "main.js": "/portfolio/static/js/main.a3782574.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/jamilafood.png": "/portfolio/static/media/jamilafood.8ae47e25cd037e696c1c.png",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.d1e75c0e7ddc0883ff79.png",
@@ -29,12 +29,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.92a1b21a.css.map": "/portfolio/static/css/main.92a1b21a.css.map",
-    "main.b557afee.js.map": "/portfolio/static/js/main.b557afee.js.map",
+    "main.b57daf0d.css.map": "/portfolio/static/css/main.b57daf0d.css.map",
+    "main.a3782574.js.map": "/portfolio/static/js/main.a3782574.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92a1b21a.css",
-    "static/js/main.b557afee.js"
+    "static/css/main.b57daf0d.css",
+    "static/js/main.a3782574.js"
   ]
 }
