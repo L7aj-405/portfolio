@@ -22,9 +22,7 @@ function About() {
                             </div>
                         </Col>
                         <Col xs={12} md={6} xl={7} >
-
-                            
-                            <p>Passionate and skilled Full Stack Developer, specializing in the creation of robust web applications. Possessing a strong expertise in both front-end and back-end development, I have advanced skills in technologies such as React JS, Laravel, and SQL. My academic journey at ISTA NTIC Beni Mellal, coupled with hands-on projects, has enhanced my understanding of digital development concepts.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                            <p className='text-sm-center '>Passionate and skilled Full Stack Developer, specializing in the creation of robust web applications. Possessing a strong expertise in both front-end and back-end development, I have advanced skills in technologies such as React JS, Laravel, and SQL. My academic journey at ISTA NTIC Beni Mellal, coupled with hands-on projects, has enhanced my understanding of digital development concepts.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
                         </Col>
                         </Row>
                         </div>
