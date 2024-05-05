@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b57daf0d.css",
-    "main.js": "/portfolio/static/js/main.67b5fd50.js",
+    "main.css": "/portfolio/static/css/main.fe76a7f7.css",
+    "main.js": "/portfolio/static/js/main.c376953f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/jamilafood.png": "/portfolio/static/media/jamilafood.8ae47e25cd037e696c1c.png",
     "static/media/sidebar.png": "/portfolio/static/media/sidebar.d1e75c0e7ddc0883ff79.png",
@@ -10,10 +10,11 @@
     "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/baner-imag1.png": "/portfolio/static/media/baner-imag1.fa68aca1d6196f6b13f9.png",
+    "static/media/sub-background2.png": "/portfolio/static/media/sub-background2.4eb55056b88951f314db.png",
     "static/media/baner-imag1.jpg": "/portfolio/static/media/baner-imag1.16657719419d41af10c6.jpg",
-    "static/media/logo1.JPG": "/portfolio/static/media/logo1.13654dd28c8651b7b42f.JPG",
     "static/media/admin_space.png": "/portfolio/static/media/admin_space.6ae1018698a636a5e3ee.png",
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.30d104cc212a8200c095.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.3607ad24dcc1d094d0f1.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -29,12 +30,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.b57daf0d.css.map": "/portfolio/static/css/main.b57daf0d.css.map",
-    "main.67b5fd50.js.map": "/portfolio/static/js/main.67b5fd50.js.map",
+    "main.fe76a7f7.css.map": "/portfolio/static/css/main.fe76a7f7.css.map",
+    "main.c376953f.js.map": "/portfolio/static/js/main.c376953f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b57daf0d.css",
-    "static/js/main.67b5fd50.js"
+    "static/css/main.fe76a7f7.css",
+    "static/js/main.c376953f.js"
   ]
 }
