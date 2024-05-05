@@ -291,12 +291,24 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .contaner-image{
- 
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+  position: relative;
+  background: linear-gradient(90.21deg, #bf629a70 -5.91%, #4a2fbd70 111.58%);
 	background-size: 400% 400%;
   border-radius: 50%;
   animation: updown 3s linear infinite;
  
+}
+.contaner-image::before{
+  content: "";
+  position: absolute; /* Added position property */
+  top: 0;
+  left: 0;
+  width: 100%; /* Set to fill container */
+  height: 100%; /* Set to fill container */
+  background: url(./assets/img/sub-background2.png);
+  background-size: cover; /* Adjust to your needs */
+  border-radius: 50%;
+  
 }
 .banner img {
   filter: drop-shadow(-6px 0px 11px #ffffff);
@@ -304,7 +316,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .header-img{
   border-radius: 50%;
-  box-shadow: #544464 0px 0px 40px 28px;
+  box-shadow: #544464 0px 0px 40px 3px;
 	background-size: 400% 400%;
 }
 
