@@ -5,7 +5,7 @@ import contactImg from "../assets/img/contact-img1.svg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
-export const Contact = () => {
+ const Contact = () => {
   const form = useRef();
   const [error,setError]=useState('')
   const [fname,setFame]=useState('')
@@ -101,3 +101,4 @@ const [email,setemail]=useState('')
     </section>
   )
 }
+export default Contact

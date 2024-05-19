@@ -5,7 +5,7 @@ import 'react-multi-carousel/lib/styles.css';
 
 import colorSharp from "../assets/img/color-sharp.png"
 
-export const Skills = () => {
+const Skills = () => {
   const responsive = {
     superLargeDesktop: {
       // the naming can be any, depends on you.
@@ -92,3 +92,4 @@ export const Skills = () => {
     </section>
   )
 }
+export default Skills
